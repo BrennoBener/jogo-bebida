@@ -279,7 +279,7 @@ let questions = [
     ]
   },
   {  
-    question: 'Qual destas séries não é sobre um serial killer?',
+    question: 'Qual destas séries é sobre um serial killer?',
     answers: [
       { text: 'Brooklyn 99', correct: false },
       { text: 'F.R.I.E.N.D.S.', correct: false },
@@ -303,15 +303,6 @@ let questions = [
       { text: 'Mapa do tesouro.', correct: false },
       { text: 'Uma música', correct: false },
       { text: 'Família', correct: true },
-    ]
-  },
-  {  
-    question: 'Em Lost, o que significa a tatuagem de Charlie?',
-    answers: [
-      { text: 'Nada', correct: false },
-      { text: 'Mapa do tesouro.', correct: false },
-      { text: 'Uma música', correct: false },
-      { text: 'Familia', correct: true },
     ]
   },
 ]
